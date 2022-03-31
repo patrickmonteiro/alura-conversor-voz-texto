@@ -7,10 +7,10 @@ import Card from 'primevue/card'
 import Textarea from 'primevue/textarea';
 import Message from 'primevue/message';
 
-import 'primevue/resources/themes/saga-blue/theme.css';
+import 'primevue/resources/themes/lara-light-indigo/theme.css';
 import 'primevue/resources/primevue.min.css';
+import 'primeicons/primeicons.css';  
 import 'primeflex/primeflex.css'
-import 'primeicons/primeicons.css';    
 
 const app = createApp(App)
 

@@ -783,10 +783,10 @@ primeicons@^5.0.0:
   resolved "https://registry.yarnpkg.com/primeicons/-/primeicons-5.0.0.tgz#73a0b6028a77c58a9eeb331ad13aaf085e8451ee"
   integrity sha512-heygWF0X5HFI1otlZE62pp6ye7sZ8om78J9au2BRkg8O7Y8AHTZ9qKMRzchZUHLe8zUAvdi6hZzzm9XxgwIExw==
 
-primevue@3.12.2:
-  version "3.12.2"
-  resolved "https://registry.yarnpkg.com/primevue/-/primevue-3.12.2.tgz#3ae06fd9e944fbc8f30470c394a5f18d703845d9"
-  integrity sha512-v0ZphJSphbyisj9BnqSJWzEZxOEJKUqvTPEi120/x1ZplrupHJtSitDl7mw+d/OoyRQ19V1BplM0vlqJeiAMEg==
+primevue@^3.12.4:
+  version "3.12.4"
+  resolved "https://registry.yarnpkg.com/primevue/-/primevue-3.12.4.tgz#b77adf4f6365fa329b480a9e8ffb77788d21e269"
+  integrity sha512-+YUQYIFMtDA8Gv7KTvM9yWLJUOtxtvy0HTVsf1xDOvvnRvHcICZG5vl3MEa1zBAoEpcCf1sKuN3FoH6IK5ZOpQ==
 
 punycode@^2.1.0:
   version "2.1.1"

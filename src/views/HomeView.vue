@@ -19,8 +19,8 @@
           </div>
         </template>
         <template #footer>
-          <p-button icon="pi pi-stop" class="w-full p-button-text p-button-danger" v-if="load" />
-          <p-button icon="pi pi-play" class="w-full p-button-text" @click="handleConvertTextToVoice" v-else  />
+          <p-button icon="pi pi-stop" class="w-full p-button-danger" v-if="load" />
+          <p-button icon="pi pi-play" class="w-full" @click="handleConvertTextToVoice" v-else  />
         </template>
       </p-card>
       <p-card v-else>
